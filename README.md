@@ -1,1 +1,3 @@
-# Etch-a-Sketch-Odin-
+# Etch-a-Sketch-Odin
+
+Just another odin project I guess. Lets go...
