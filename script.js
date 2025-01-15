@@ -4,8 +4,8 @@ for(let i = 0; i <= 256; i++) {
   const div = document.createElement('div');
   div.classList.add('div');
   container.appendChild(div);
-  div.addEventListener('click', function() {
-    div.style.backgroundColor = 'black';
+  div.addEventListener('mouseover', function() {
+    div.style.backgroundColor = 'red';
   });
 }
 
